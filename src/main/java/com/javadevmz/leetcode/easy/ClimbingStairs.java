@@ -1,4 +1,4 @@
-package com.javadevmz.leetcode;
+package com.javadevmz.leetcode.easy;
 
 /**
  * 70. Climbing Stairs
