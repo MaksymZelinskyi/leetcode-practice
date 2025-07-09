@@ -7,7 +7,7 @@ package com.javadevmz.leetcode;
  *     Insert a character
  *     Delete a character
  *     Replace a character
-**/
+ */
 class EditDistance {
 
     public int minDistance(String word1, String word2) {
