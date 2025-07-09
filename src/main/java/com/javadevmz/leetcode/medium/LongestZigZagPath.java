@@ -1,5 +1,7 @@
 package com.javadevmz.leetcode.medium;
 
+import com.javadevmz.leetcode.util.TreeNode;
+
 /**
  * 1372. Longest ZigZag Path in a Binary Tree
 
@@ -51,20 +53,5 @@ public class LongestZigZagPath {
             continueZigZag(root.right, false, 1);
         }
     }
-
-    public class TreeNode {
-
-        int val;
-        TreeNode left;
-        TreeNode right;
-        TreeNode() {}
-        TreeNode(int val) { this.val = val; }
-        TreeNode(int val, TreeNode left, TreeNode right) {
-            this.val = val;
-            this.left = left;
-            this.right = right;
-        }
-    }
-
 
 }
