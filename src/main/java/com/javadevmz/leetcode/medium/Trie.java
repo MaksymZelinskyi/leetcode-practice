@@ -1,4 +1,4 @@
-package com.javadevmz.leetcode.middle;
+package com.javadevmz.leetcode.medium;
 
 public class Trie {
 

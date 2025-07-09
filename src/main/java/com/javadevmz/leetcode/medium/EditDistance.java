@@ -1,4 +1,4 @@
-package com.javadevmz.leetcode.middle;
+package com.javadevmz.leetcode.medium;
 
 /**
  * 72. Edit Distance
