@@ -9,7 +9,7 @@ package com.javadevmz.leetcode.medium;
  * 11100011
  *    ||
  * 00101011
- *    =
+ *    ==
  * 11001000
  */
 public class MinimumFlips {
